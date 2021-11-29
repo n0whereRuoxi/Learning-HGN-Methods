@@ -1,0 +1,12 @@
+prob00.pddl
+prob01.pddl
+prob02.pddl
+prob03.pddl
+prob04.pddl
+prob05.pddl
+prob06.pddl
+prob07.pddl
+prob08.pddl
+prob09.pddl
+prob10.pddl
+prob11.pddl
